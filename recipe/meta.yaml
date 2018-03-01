@@ -1,6 +1,6 @@
 {% set name = "MacFSEvents" %}
-{% set version = "0.7" %}
-{% set sha256 = "95d3cddaf8a42435bfbd50087785ee9e3ebb8325242cfd06a88ea21f85bcb56f" %}
+{% set version = "0.8.1" %}
+{% set sha256 = "1324b66b356051de662ba87d84f73ada062acd42b047ed1246e60a449f833e10" %}
 
 package:
   name: '{{ name|lower }}'
