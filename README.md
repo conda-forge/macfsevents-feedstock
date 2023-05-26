@@ -1,11 +1,11 @@
-About macfsevents
-=================
+About macfsevents-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/macfsevents-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/malthe/macfsevents
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/macfsevents-feedstock/blob/main/LICENSE.txt)
 
 Summary: Thread-based interface to file system observation primitives.
 
